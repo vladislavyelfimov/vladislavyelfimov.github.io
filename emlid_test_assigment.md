@@ -9,6 +9,11 @@ Real-Time Kinematic (RTK) systems are essential for achieving high-precision pos
 - [Best Practices](#best-practices-for-using-rtk-systems)
 - [Conclusion](#conclusion)
 
+
+![placeholder image](https://github.com/vladislavyelfimov/vladislavyelfimov.github.io/blob/1129bb2208300e3493836074c45ff5dff08098d3/10e6e7b73aa7a456bf7f7b149f3c88b4.jpg)
+*RTK-powered sprayer drones are used in precision agriculture*
+
+
 ## What is RTK
 
 RTK (Real-Time Kinematic) improves the accuracy of standard GNSS (Global Navigation Satellite Systems) by providing real-time corrections for satellite signal errors. Standard GNSS positioning provides accuracy within a few meters, which is sufficient for general navigation but insufficient for high-precision tasks like land surveying, construction layout, or precision agriculture. RTK takes the guesswork out of positioning by reducing error margins to mere centimeters, allowing users to perform their tasks with unmatched precision.
