@@ -10,9 +10,9 @@ Real-Time Kinematic (RTK) systems are essential for achieving high-precision pos
 - [Conclusion](#conclusion)
 
 
-![placeholder image](10e6e7b73aa7a456bf7f7b149f3c88b4.jpg)
+![placeholder image](Precision-Agriculture-Drone-scaled.jpg)
 
-*RTK-powered sprayer drones are helping farmers increase the quality of crops and fight climate change; all at once*
+*Using RTK-powered sprayer drones in precision agriculture is an example of how this tech is transforming traditional industries right now*
 
 
 ## What is RTK
