@@ -4,9 +4,9 @@ Real-Time Kinematic (RTK) systems are essential for achieving high-precision pos
 
 - [What is RTK?](#what-is-rtk)
 - [Core Components of RTK Systems](#core-components-of-rtk-systems)
-- [How RTK Works](#how-rtk-works)
-- [Practical Applications](#practical-applications)
-- [Best Practices](#best-practices)
+- [How RTK Works](#how-rtk-works-step-by-step)
+- [Practical Applications](#practical-applications-in-engineering)
+- [Best Practices](#best-practices-for-using-rtk-systems)
 - [Conclusion](#conclusion)
 
 ## What is RTK
