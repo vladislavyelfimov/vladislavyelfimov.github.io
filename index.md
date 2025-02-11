@@ -5,8 +5,8 @@
 >
 >my info
 >>e-mail: vladislavyelmov@gmail.com
->>telegram: @vladislavyelmov
->>based in Georgia with no permanent location
+>telegram: @vladislavyelmov
+>based in Georgia with no permanent location
 
 here's what I've got here:
 
