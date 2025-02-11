@@ -95,11 +95,11 @@
 Окончательно подписанный договор, заархивированный и готовый к исполнению.
 
 ## Схема бизнес процесса (Event-driven process chain)
-<div style="max-width: 1600px; text-align: center;">
+<div style="max-width: 1920px; text-align: center;">
   <img 
     src="https://www.mermaidchart.com/raw/6a900357-02cd-421c-90b9-a5e0a856d966?theme=light&version=v0.1&format=svg" 
     alt="5G Contract Process" 
-    style="width: 40%; height: auto;"
+    style="width: 60%; height: auto;"
   />
 </div>
 
