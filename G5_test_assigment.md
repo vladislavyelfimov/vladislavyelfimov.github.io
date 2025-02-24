@@ -99,7 +99,7 @@
   <img 
     src="https://www.mermaidchart.com/raw/6a900357-02cd-421c-90b9-a5e0a856d966?theme=light&version=v0.1&format=svg" 
     alt="5G Contract Process" 
-    style="width: 60%; height: auto;"
+    style="width: 100%; height: auto;"
   />
 </div>
 
