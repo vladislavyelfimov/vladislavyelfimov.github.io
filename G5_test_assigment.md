@@ -95,7 +95,7 @@
 Окончательно подписанный договор, заархивированный и готовый к исполнению.
 
 ## Схема бизнес процесса
-<div style="max-width: 2880px; text-align: center;">
+<div style="width: 1920px; border: 1px solid #ccc; padding: 1rem; text-align: center;">
   <img 
     src="https://www.mermaidchart.com/raw/6a900357-02cd-421c-90b9-a5e0a856d966?theme=light&version=v0.1&format=svg" 
     alt="5G Contract Process" 
